@@ -1,0 +1,17 @@
+.info{
+    display:inline-block;
+    margin: 20px auto 0;
+    font-size: 35px;
+    
+}
+span{
+    display:block;
+    margin-bottom: 15px;
+}
+header,p{
+    font-size: 30px;
+}
+.main{
+    display: block;
+    font-size: 40px;
+}
